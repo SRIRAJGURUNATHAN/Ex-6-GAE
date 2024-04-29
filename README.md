@@ -1,7 +1,7 @@
 
 # Ex-6-GAE
-Date:
-Aim:
+
+# Aim:
 ToinstallGoogleAppEngine.Createhelloworldappandothersimplewebapplicationsusingpython/java
 
 GoogleCloudPlatform(GCP)
@@ -23,8 +23,6 @@ Providerprovidesthenetworks,servers,storage,etc.
 GoogleAppEngine:
 
 GoogleAppEnginewasfirstreleasedasabetaversioninApril2008.
-2
-5
 
 It isaisa PlatformasaService(PaaS)cloudcomputingplatformfordevelopingandhostingwebapplicationsinGoogle-manageddatacenters.
 Google‘sAppEngineopensGoogle‘sproductiontoanypersonintheworldatno
@@ -49,6 +47,8 @@ Architecture ofGoogleAppEngine
 
 
 FeaturesofGoogleAppEngine
+
+
 ![image](https://github.com/DrMalathiSaravanan/Ex-6-GAE/assets/121288490/74df22dc-a1ec-4680-a9b0-ee7cc79085bd)
 
 
